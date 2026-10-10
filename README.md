@@ -13,6 +13,7 @@ together edge to edge into a tiling that never repeats. With `d = 5` (a
 *pentagrid*) you get the Penrose rhombus tiling; `d = 8` gives the 8-fold
 Ammann–Beenker tiling.
 
+- **− / +** (top left): change `d`, the number of grids.
 - **Left slider**: morphs between the grid of lines and the tiling, so you can
   watch each crossing turn into its rhombus.
 - **Right slider**: shifts the grids against each other (de Bruijn's offsets),
